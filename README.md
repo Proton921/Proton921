@@ -11,7 +11,7 @@ Because of my heavy schoolwork,I will be semi-retired until June,2023.
 Currently learning front-end tech, and plan to learn Python and C++ later this year.
 # How to contact me.
 Available accounts:
--Email: wzt1785827887@163.com
+- Email: wzt1785827887@163.com
 - QQ: 1785827887
 - bilibili: @Proton921
 - Crowdin: @Proton921
