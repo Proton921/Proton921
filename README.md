@@ -1,5 +1,7 @@
 Hello, I’m **[@Proton921](https://github.com/Proton921)**, a ninth grader from Zhejiang, China.
 
+<img alt="Proton921's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Proton921&count_private=true&show_icons=true&include_all_commits=true/" align=right />
+
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
