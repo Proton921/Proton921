@@ -9,11 +9,15 @@ Hello, I’m **[@Proton921](https://github.com/Proton921)**, a ninth grader from
 </div>
 
 # What I do.
+
 Work for [SatWiki Chinese](https://sat.huijiwiki.com).
-Because of my heavy schoolwork,I will be semi-retired until June,2023.
+
 # What I am learning.
+
 Currently learning front-end tech, and plan to learn Python and C++ later this year.
+
 # How to contact me.
+
 Available accounts:
 - Email: wzt1785827887@163.com
 - QQ: 1785827887
